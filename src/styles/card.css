@@ -53,6 +53,8 @@
     line-height: 2;
     font-weight: 500;
     font-size: medium;
+    text-align: justify;
+    width: 310px;
 }
 
 .descripcion p{
